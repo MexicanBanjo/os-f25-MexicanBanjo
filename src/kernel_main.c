@@ -1,6 +1,7 @@
 
 #include <stdint.h>
 #include "rprintf.h"
+#include "rprintf.c"
 
 #define MEMORY 0xB8000
 #define WIDTH  80
